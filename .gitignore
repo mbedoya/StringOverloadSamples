@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+StringOverloadSamples.v11.suo
+StringOverloadSamples.Console/bin
+StringOverloadSamples.Console/obj
+StringOverloadSamples.Test/bin
+StringOverloadSamples.Test/obj
+StringOverloadSamples.Implementation/bin
+StringOverloadSamples.Implementation/obj
